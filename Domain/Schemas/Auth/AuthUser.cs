@@ -3,6 +3,7 @@ using Domain.Schemas.Base;
 
 namespace Domain.Schemas.Auth;
 
+[Table("auth_user", Schema = "auth")]
 public class AuthUser : BaseEntity
 {
     [Column("first_name")]

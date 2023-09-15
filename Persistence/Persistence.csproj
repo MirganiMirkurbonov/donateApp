@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Cache\" />
-      <Folder Include="Context\" />
       <Folder Include="Extensions\" />
     </ItemGroup>
 
